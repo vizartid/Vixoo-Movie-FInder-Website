@@ -96,5 +96,5 @@ Access the project at: `http://localhost:5173`
 
 ---
 
-> Made with ❤️ by **Myfza**
+> Made with by **Muhammad Yusuf Aditiya**
 > Powered by Supabase & TMDb API
